@@ -16,14 +16,6 @@ public class AddItemSteps {
     YourCartPage yourCartPage;
 
 
-//    @Given("the user is on the Product page")
-//    public void the_user_is_on_the_product_page() {
-//
-//        productPage = new ProductPage(BaseClass.getDriver());
-//        Assert.assertTrue(productPage.isProductLogoDisplayed());
-//
-//    }
-
     @Given("the user is on the Product page")
     public void the_user_is_on_the_product_page() {
 
